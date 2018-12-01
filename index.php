@@ -10,6 +10,12 @@
     <link rel="stylesheet" type="text/css" href="css/component.css" />
 </head>
 <body onload="loader()">
+    <div class="dimmer">
+    <span class="exit">Zatvori</span>
+        <div class="result-holder">
+            <p id="result-value"></p>
+        </div>
+    </div>
     <div class="container">
         <header>
             <h1>Tablica Mnozenja <span>Projektni zadatak za evaluaciju poznavanja PHP-a, MySQL-a, HTML i Javascript-a</span></h1>	
