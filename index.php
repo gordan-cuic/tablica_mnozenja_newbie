@@ -15,9 +15,9 @@
             <h1>Tablica Mnozenja <span>Projektni zadatak za evaluaciju poznavanja PHP-a, MySQL-a, HTML i Javascript-a</span></h1>	
             <h1><span>Autor: Gordan Cuic</span></h1>	
             <nav class="codrops-demos">
-                <a href="https://github.com/gordan-cuic/tablica_mnozenja_newbie" title="Github">Github</a>
-                <a href="https://dev.to/gordan_cuic" title="Dev.to">DEV.TO</a>
-                <a href="www.linkedin.com/in/gordan-cuic-8791ab50" title="LinkedIN">LinkedIN</a>
+                <a href="https://github.com/gordan-cuic/tablica_mnozenja_newbie" target="_blank" title="Github">Github</a>
+                <a href="https://dev.to/gordan_cuic" target="_blank" title="Dev.to">DEV.TO</a>
+                <a href="www.linkedin.com/in/gordan-cuic-8791ab50" target="_blank" title="LinkedIN">LinkedIN</a>
             </nav>
         </header>
         <div class="component">
@@ -42,24 +42,21 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr><td class="td-lead">1</td><td>gary.coleman21@example.com</td><td class="user-phone">(398)-332-5385</td><td class="user-mobile">(888)-677-3719</td></tr>
-                    <tr><td class="td-lead">2</td><td>rose.parker16@example.com</td><td class="user-phone">(293)-873-2247</td><td class="user-mobile">(216)-889-4933</td></tr>
-                    <tr><td class="td-lead">3</td><td>chloe.nelson18@example.com</td><td class="user-phone">(957)-213-3499</td><td class="user-mobile">(207)-516-4474</td></tr>
-                    <tr><td class="td-lead">4</td><td>eric.bell16@example.com</td><td class="user-phone">(897)-762-9782</td><td class="user-mobile">(565)-627-3002</td></tr>
-                    <tr><td class="td-lead">5</td><td>douglas.hayes92@example.com</td><td class="user-phone">(231)-391-6269</td><td class="user-mobile">(790)-838-2130</td></tr>
-                    <tr><td class="td-lead">6</td><td>cameron.brown32@example.com</td><td class="user-phone">(204)-488-5204</td><td class="user-mobile">(508)-463-6811</td></tr>
-                    <tr><td class="td-lead">7</td><td>nevaeh.diaz99@example.com</td><td class="user-phone">(436)-578-2946</td><td class="user-mobile">(906)-412-3302</td></tr>
-                    <tr><td class="td-lead">8</td><td>kathy.miller62@example.com</td><td class="user-phone">(724)-705-3555</td><td class="user-mobile">(764)-841-2531</td></tr>
-                    <tr><td class="td-lead">9</td><td>susan.king88@example.com</td><td class="user-phone">(774)-205-7754</td><td class="user-mobile">(639)-267-9728</td></tr>
-                    <tr><td class="td-lead">10</td><td>jeffery.ramirez83@example.com</td><td class="user-phone">(723)-243-7706</td><td class="user-mobile">(172)-597-3422</td></tr>
+                    <tr><td class="td-lead">1</td><td>1 x 1</td><td>2 x 1</td><td>3 x 1</td><td>4 x 1</td><td>5 x 1</td><td>6 x 1</td><td>7 x 1</td><td>8 x 1</td><td>9 x 1</td><td>10 x 1</td></tr>
+                    <tr><td class="td-lead">2</td><td>1 x 2</td><td>2 x 2</td><td>3 x 2</td><td>4 x 2</td><td>5 x 2</td><td>6 x 2</td><td>7 x 2</td><td>8 x 2</td><td>9 x 2</td><td>10 x 2</td></tr>
+                    <tr><td class="td-lead">3</td><td>1 x 3</td><td>2 x 3</td><td>3 x 3</td><td>4 x 3</td><td>5 x 3</td><td>6 x 3</td><td>7 x 3</td><td>8 x 3</td><td>9 x 3</td><td>10 x 3</td></tr>
+                    <tr><td class="td-lead">4</td><td>1 x 4</td><td>2 x 4</td><td>3 x 4</td><td>4 x 4</td><td>5 x 4</td><td>6 x 4</td><td>7 x 4</td><td>8 x 4</td><td>9 x 4</td><td>10 x 4</td></tr>
+                    <tr><td class="td-lead">5</td><td>1 x 5</td><td>2 x 5</td><td>3 x 5</td><td>4 x 5</td><td>5 x 5</td><td>6 x 5</td><td>7 x 5</td><td>8 x 5</td><td>9 x 5</td><td>10 x 5</td></tr>
+                    <tr><td class="td-lead">6</td><td>1 x 6</td><td>2 x 6</td><td>3 x 6</td><td>4 x 6</td><td>5 x 6</td><td>6 x 6</td><td>7 x 6</td><td>8 x 6</td><td>9 x 6</td><td>10 x 6</td></tr>
+                    <tr><td class="td-lead">7</td><td>1 x 7</td><td>2 x 7</td><td>3 x 7</td><td>4 x 7</td><td>5 x 7</td><td>6 x 7</td><td>7 x 7</td><td>8 x 7</td><td>9 x 7</td><td>10 x 7</td></tr>
+                    <tr><td class="td-lead">8</td><td>1 x 8</td><td>2 x 8</td><td>3 x 8</td><td>4 x 8</td><td>5 x 8</td><td>6 x 8</td><td>7 x 8</td><td>8 x 8</td><td>9 x 8</td><td>10 x 8</td></tr>
+                    <tr><td class="td-lead">9</td><td>1 x 9</td><td>2 x 9</td><td>3 x 9</td><td>4 x 9</td><td>5 x 9</td><td>6 x 9</td><td>7 x 9</td><td>8 x 9</td><td>9 x 9</td><td>10 x 9</td></tr>
+                    <tr><td class="td-lead">10</td><td>1 x 10</td><td>2 x 10</td><td>3 x 10</td><td>4 x 10</td><td>5 x 10</td><td>6 x 10</td><td>7 x 10</td><td>8 x 10</td><td>9 x 10</td><td>10 x 10</td></tr>
                 </tbody>
             </table>
         </div>
-        <div class="component" id="dynamic-table-container">
-        </div>
     </div><!-- /container -->
-    <!-- <script src="js/jquery-3.3.1.slim.min"></script> -->
     <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-throttle-debounce/1.1/jquery.ba-throttle-debounce.min.js"></script>
-    <!-- <script src="js/jquery.stickyheader.js"></script> -->
+    <!-- <script src="js/calculator.js"></script> -->
 </body>
 </html>
