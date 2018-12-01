@@ -50,7 +50,7 @@ tbody tr:nth-child(2n-1) {
     background-color: #f5f5f5;
     transition: all .125s ease-in-out;
 }
-tbody tr:hover {
+tbody td:hover {
     background-color: rgba(129,208,177,.3);
 }
 
