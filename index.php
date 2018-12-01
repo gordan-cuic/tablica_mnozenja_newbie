@@ -42,16 +42,16 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr><td class="td-lead">1</td><td>1 x 1</td><td>2 x 1</td><td>3 x 1</td><td>4 x 1</td><td>5 x 1</td><td>6 x 1</td><td>7 x 1</td><td>8 x 1</td><td>9 x 1</td><td>10 x 1</td></tr>
-                    <tr><td class="td-lead">2</td><td>1 x 2</td><td>2 x 2</td><td>3 x 2</td><td>4 x 2</td><td>5 x 2</td><td>6 x 2</td><td>7 x 2</td><td>8 x 2</td><td>9 x 2</td><td>10 x 2</td></tr>
-                    <tr><td class="td-lead">3</td><td>1 x 3</td><td>2 x 3</td><td>3 x 3</td><td>4 x 3</td><td>5 x 3</td><td>6 x 3</td><td>7 x 3</td><td>8 x 3</td><td>9 x 3</td><td>10 x 3</td></tr>
-                    <tr><td class="td-lead">4</td><td>1 x 4</td><td>2 x 4</td><td>3 x 4</td><td>4 x 4</td><td>5 x 4</td><td>6 x 4</td><td>7 x 4</td><td>8 x 4</td><td>9 x 4</td><td>10 x 4</td></tr>
-                    <tr><td class="td-lead">5</td><td>1 x 5</td><td>2 x 5</td><td>3 x 5</td><td>4 x 5</td><td>5 x 5</td><td>6 x 5</td><td>7 x 5</td><td>8 x 5</td><td>9 x 5</td><td>10 x 5</td></tr>
-                    <tr><td class="td-lead">6</td><td>1 x 6</td><td>2 x 6</td><td>3 x 6</td><td>4 x 6</td><td>5 x 6</td><td>6 x 6</td><td>7 x 6</td><td>8 x 6</td><td>9 x 6</td><td>10 x 6</td></tr>
-                    <tr><td class="td-lead">7</td><td>1 x 7</td><td>2 x 7</td><td>3 x 7</td><td>4 x 7</td><td>5 x 7</td><td>6 x 7</td><td>7 x 7</td><td>8 x 7</td><td>9 x 7</td><td>10 x 7</td></tr>
-                    <tr><td class="td-lead">8</td><td>1 x 8</td><td>2 x 8</td><td>3 x 8</td><td>4 x 8</td><td>5 x 8</td><td>6 x 8</td><td>7 x 8</td><td>8 x 8</td><td>9 x 8</td><td>10 x 8</td></tr>
-                    <tr><td class="td-lead">9</td><td>1 x 9</td><td>2 x 9</td><td>3 x 9</td><td>4 x 9</td><td>5 x 9</td><td>6 x 9</td><td>7 x 9</td><td>8 x 9</td><td>9 x 9</td><td>10 x 9</td></tr>
-                    <tr><td class="td-lead">10</td><td>1 x 10</td><td>2 x 10</td><td>3 x 10</td><td>4 x 10</td><td>5 x 10</td><td>6 x 10</td><td>7 x 10</td><td>8 x 10</td><td>9 x 10</td><td>10 x 10</td></tr>
+                    <tr><td class="td-lead">1</td><td>1 x 1</td><td>1 x 2</td><td>1 x 3</td><td>1 x 4</td><td>1 x 5</td><td>1 x 6</td><td>1 x 7</td><td>1 x 8</td><td>1 x 9</td><td>1 x 10</td></tr>
+                    <tr><td class="td-lead">2</td><td>2 x 1</td><td>2 x 2</td><td>2 x 3</td><td>2 x 4</td><td>2 x 5</td><td>2 x 6</td><td>2 x 7</td><td>2 x 8</td><td>2 x 9</td><td>2 x 10</td></tr>
+                    <tr><td class="td-lead">3</td><td>3 x 1</td><td>3 x 2</td><td>3 x 3</td><td>3 x 4</td><td>3 x 5</td><td>3 x 6</td><td>3 x 7</td><td>3 x 8</td><td>3 x 9</td><td>3 x 10</td></tr>
+                    <tr><td class="td-lead">4</td><td>4 x 1</td><td>4 x 2</td><td>4 x 3</td><td>4 x 4</td><td>4 x 5</td><td>4 x 6</td><td>4 x 7</td><td>4 x 8</td><td>4 x 9</td><td>4 x 10</td></tr>
+                    <tr><td class="td-lead">5</td><td>5 x 1</td><td>5 x 2</td><td>5 x 3</td><td>5 x 4</td><td>5 x 5</td><td>5 x 6</td><td>5 x 7</td><td>5 x 8</td><td>5 x 9</td><td>5 x 10</td></tr>
+                    <tr><td class="td-lead">6</td><td>6 x 1</td><td>6 x 2</td><td>6 x 3</td><td>6 x 4</td><td>6 x 5</td><td>6 x 6</td><td>6 x 7</td><td>6 x 8</td><td>6 x 9</td><td>6 x 10</td></tr>
+                    <tr><td class="td-lead">7</td><td>7 x 1</td><td>7 x 2</td><td>7 x 3</td><td>7 x 4</td><td>7 x 5</td><td>7 x 6</td><td>7 x 7</td><td>7 x 8</td><td>7 x 9</td><td>7 x 10</td></tr>
+                    <tr><td class="td-lead">8</td><td>8 x 1</td><td>8 x 2</td><td>8 x 3</td><td>8 x 4</td><td>8 x 5</td><td>8 x 6</td><td>8 x 7</td><td>8 x 8</td><td>8 x 9</td><td>8 x 10</td></tr>
+                    <tr><td class="td-lead">9</td><td>9 x 1</td><td>9 x 2</td><td>9 x 3</td><td>9 x 4</td><td>9 x 5</td><td>9 x 6</td><td>9 x 7</td><td>9 x 8</td><td>9 x 9</td><td>9 x 10</td></tr>
+                    <tr><td class="td-lead">10</td><td>10 x 1</td><td>10 x 2</td><td>10 x 3</td><td>10 x 4</td><td>10 x 5</td><td>10 x 6</td><td>10 x 7</td><td>10 x 8</td><td>10 x 9</td><td>10 x 10</td></tr>
                 </tbody>
             </table>
         </div>
