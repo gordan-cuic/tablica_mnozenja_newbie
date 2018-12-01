@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="css/demo.css" />
     <link rel="stylesheet" type="text/css" href="css/component.css" />
 </head>
-<body>
+<body onload="loader()">
     <div class="container">
         <header>
             <h1>Tablica Mnozenja <span>Projektni zadatak za evaluaciju poznavanja PHP-a, MySQL-a, HTML i Javascript-a</span></h1>	
@@ -57,6 +57,7 @@
         </div>
     </div><!-- /container -->
     <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-throttle-debounce/1.1/jquery.ba-throttle-debounce.min.js"></script>
+    <script src="js/calculator.js"></script>
     <!-- <script src="js/calculator.js"></script> -->
 </body>
 </html>
