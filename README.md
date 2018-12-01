@@ -1,2 +1,2 @@
-# tablica_mnozenja_newbie
-Projektni zadatak - evaluacija
+# Tablica Mnozenja Newbie
+## Projektni zadatak - evaluacija
