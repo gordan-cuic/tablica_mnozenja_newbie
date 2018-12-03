@@ -1,17 +1,15 @@
 <?php
+// incl config za spajanje na bazu
+include('config.php');
 
-$servername = "localhost";
-$username = "tablicni_mnozator";
-$password = "tablicni_mnozator";
-$dbname = "tablica_mnozenja_1";
-
+// ak postoji uredan post request
 if (isset($_POST['execute'])) {
     // pokupi podatke iz request-a
     $execute = $_POST['execute'];
     $data = $_POST['data'];
 
     // konekcija na bazu
-    $conn = mysqli_connect($servername, $username, $password, $dbname);
+    $conn = mysqli_connect(SERVERNAME, USERNAME, PASSWORD, DBNAME);
     // provjera konekcije
     if (mysqli_connect_errno()) {
         $msg  = "Error while connecting to database: <br>" . mysqli_connect_error();
