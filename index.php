@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="css/demo.css" />
     <link rel="stylesheet" type="text/css" href="css/component.css" />
 </head>
-<body onload="loader()">
+<body>
     <div class="dimmer">
     <span class="exit">Zatvori</span>
         <div class="result-holder">
@@ -26,6 +26,7 @@
                 <a href="www.linkedin.com/in/gordan-cuic-8791ab50" target="_blank" title="LinkedIN">LinkedIN</a>
             </nav>
         </header>
+        <div id="response-block"></div>
         <div class="component">
             <!--
             <h2>Basic usage</h2>
@@ -63,7 +64,7 @@
         </div>
     </div><!-- /container -->
     <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-throttle-debounce/1.1/jquery.ba-throttle-debounce.min.js"></script>
+    <script src="js/jquery.min.js"></script>
     <script src="js/calculator.js"></script>
-    <!-- <script src="js/calculator.js"></script> -->
 </body>
 </html>
