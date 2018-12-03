@@ -28,10 +28,6 @@ $(document).ready(function($) {
                     data: actions,
                     //dataType: "JSON",
                 }).done(function(data, textStatus, jqXHR) {
-                    $('#response-block').text(data);
-                }).fail(function(jqXHR, textStatus, errorThrown) {
-                    alert("ajax fail()");
-                }).always(function() {
                     // splash result
                     let dimmer = document.querySelector('.dimmer');
                     if (!dimmer) {
@@ -44,7 +40,6 @@ $(document).ready(function($) {
                     }
                     resultHolder.innerHTML = res.toString();
                     
-                    
                     dimmer.style.display = 'block';
 
                     let dimmerExit = document.querySelector('.exit');
@@ -53,7 +48,13 @@ $(document).ready(function($) {
                     }
                     dimmerExit.addEventListener("click", function(event) {
                         dimmer.style.display = 'none';    
+                        let resp = JSON.parse(data);
+                        $('#response-block').attr('class', 'isok');
+                        $('#response-block').html('<p>' + resp.msg + '</p>');
                     }); 
+                }).fail(function(jqXHR, textStatus, errorThrown) {
+                    $('#response-block').attr('class', 'notok');
+                    $('#response-block').html('<p>' + errorThrown + '</p>');
                 });
             }); 
         }

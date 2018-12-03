@@ -18,20 +18,15 @@
     </div>
     <div class="container">
         <header>
-            <h1>Tablica Mnozenja <span>Projektni zadatak za evaluaciju poznavanja PHP-a, MySQL-a, HTML i Javascript-a</span></h1>	
-            <h1><span>Autor: Gordan Cuic</span></h1>	
+            <h1>Tablica Mnozenja</h1>	
+            <h1><span>Projektni zadatak za evaluaciju poznavanja PHP-a, MySQL-a, HTML i Javascript-a. Dev by: Gordan Cuic</span></h1>
             <nav class="codrops-demos">
                 <a href="https://github.com/gordan-cuic/tablica_mnozenja_newbie" target="_blank" title="Github">Github</a>
                 <a href="https://dev.to/gordan_cuic" target="_blank" title="Dev.to">DEV.TO</a>
                 <a href="www.linkedin.com/in/gordan-cuic-8791ab50" target="_blank" title="LinkedIN">LinkedIN</a>
-            </nav>
+            </nav>            
         </header>
-        <div id="response-block"></div>
         <div class="component">
-            <!--
-            <h2>Basic usage</h2>
-            <p>This is a basic usage example. Scroll down to see the sticky table header in action. And of course, multiple instances are supported. Tables are pre-populated with random user data retrieved from the <a href="http://randomuser.me/" title="Random User Generator">Random User Generator</a>.</p>
-            -->
             <table>
                 <thead>
                     <tr>
@@ -61,9 +56,9 @@
                     <tr><td class="td-lead">10</td><td>10 x 1</td><td>10 x 2</td><td>10 x 3</td><td>10 x 4</td><td>10 x 5</td><td>10 x 6</td><td>10 x 7</td><td>10 x 8</td><td>10 x 9</td><td>10 x 10</td></tr>
                 </tbody>
             </table>
+            <div id="response-block"></div>
         </div>
     </div><!-- /container -->
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-throttle-debounce/1.1/jquery.ba-throttle-debounce.min.js"></script>
     <script src="js/jquery.min.js"></script>
     <script src="js/calculator.js"></script>
 </body>

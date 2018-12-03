@@ -135,8 +135,13 @@ td.user-name {
 	color: #f5f5f5;	
 }
 #response-block {
-	text-align: center;
 	padding: 5px;
-	font-size: 1.2rem;
+	font-size: 0.9rem;
 	font-weight: normal;
+}
+.isok {
+	text-align: center;
+}
+.notok {
+	text-align: left;;
 }
